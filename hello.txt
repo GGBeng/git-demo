@@ -1,6 +1,6 @@
 hello world! hello git! wo shi tian cai
 hello world! hello git! wo shi shuai ge
-hello world! hello git!
+hello world! hello git! master change
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
