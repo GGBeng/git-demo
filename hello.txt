@@ -1,7 +1,7 @@
 hello world! hello git! wo shi tian cai
 hello world! hello git! wo shi shuai ge
 hello world! hello git!
-hello world! hello git!
+hello world! hello git! hot-fix change
 hello world! hello git!
 hello world! hello git!
 hello world! hello git!
